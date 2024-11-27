@@ -92,21 +92,21 @@ background-color: lightblue;
 display:block;
 clear:none;
 }
-.d3{
+#d3{
 position:absolute;
 background-color:black;
 width:250px;
 height:50px;
-bottom:450px;
-left:180px;
+bottom:px;
+left:75px;
 }
-.d4{
+#d4{
 position:absolute;
 background-color:black;
 width:150px;
 height:100px;
-bottom:470px;
-right:900px;
+bottom:370px;
+right:120px;
 }
 h1{
 text-align:center;
@@ -117,3 +117,4 @@ margin-left: 400px;
 background-color: lightblue;
 display:block;
 }
+@media screen and (max-widht:)
